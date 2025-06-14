@@ -150,8 +150,6 @@ Tests model sensitivity to batch sizes: 50, 150, and 250 samples per batch to un
 ![All_Models_Test_Accuracy_Comparison](https://github.com/user-attachments/assets/e793d0c7-42a0-48e9-909c-4a721a98cc39)
 
 
-![Test Accuracy Comparison](results/All_Models_Test_Accuracy_Comparison.png)
-
 *Comparative analysis showing test accuracy across all CNN architectures and batch sizes. The plot clearly demonstrates that CNN 2 Layers with batch size 50 achieves the highest performance.*
 
 ### Additional Training Visualizations
