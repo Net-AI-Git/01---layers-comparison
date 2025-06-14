@@ -1,0 +1,17 @@
+# CNN Architecture Comparison - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core numerical computing
+numpy==2.0.2
+
+# Data manipulation and analysis
+pandas==2.2.2
+
+# Deep learning framework
+tensorflow-cpu==2.18.0
+
+# Plotting and visualization
+matplotlib==3.9.2
+
+# Machine learning utilities (train/test split)
+scikit-learn>=1.0.0
