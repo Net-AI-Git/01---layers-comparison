@@ -98,7 +98,7 @@ epochs = 10                   # Modify training duration
 ├── cnn_keras.py              # Main experiment script
 ├── requirements.txt          # Python dependencies
 ├── README.md                # Project documentation
-├── results/                 # 📁 CREATE THIS FOLDER - Add your images here
+├── results/                 # Model results
 │   ├── All_Models_Test_Accuracy_Comparison.png
 │   ├── CNN_1_Layer_batch_50.png
 │   ├── CNN_2_Layers_batch_150.png
