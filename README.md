@@ -1,4 +1,3 @@
-# 01---layers-comparison
 # CNN Layers Comparison: Architectural Impact Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
